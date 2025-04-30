@@ -1,5 +1,7 @@
 # To-Do-List
 
+Pagina que organiza pendientes y actividas
+
 * Añadir, eliminar y marcar tareas como completadas.
 * Filtrar tareas por estado (todas, pendientes, completadas).
 * Ordenar tareas por fecha de creación o prioridad.
