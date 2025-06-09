@@ -1,5 +1,5 @@
 # To-Do-List
 
-Pagina que organiza pendientes o actividas
+Pagina de recordatorio de tareas
 
-* Añadir y eliminar pendientes
+* Añadir y eliminar tareas
